@@ -1,0 +1,19 @@
+{
+  "brandCode": "",
+  "channelCode": "",
+  "channelShopCode": "",
+  "thirdCode": "",
+  "orderId": "",
+  "shopName": "",
+  "cardName": "",
+  "cardCnt": 0,
+  "phone": "",
+  "orderTime": "",
+  "dayDate": "",
+  "remain": 0,
+  "userBeginTime": "",
+  "userEndTime": "",
+  "cardRecord": "",
+  "orderStatus": "",
+  "price": 0
+}

@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: freeze
+Version: 1.0.10
+Summary: Freeze - dump / hash / sort / compare / diff anything
+Home-page: https://github.com/adfinis-sygroup/freeze
+Author: Adfinis-SyGroup
+Author-email: https://adfinis-sygroup.ch/
+License: UNKNOWN
+Description: 
+        Freeze the state of data-structures and objects for data-analysis or testing
+        (diffing data-structures). Frozen data-structures consist of only tuples
+        and these are comparable/sortable/hashable. The freeze() function can be used
+        for many purposes for example implement __hash__() for your complex object
+        very fast. dump() is intended for testing and analysis.
+Keywords: freeze state hash sort compare unittest
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Software Development :: Testing
