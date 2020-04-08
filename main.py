@@ -15,7 +15,7 @@ if __name__ == '__main__':
     # 2.1穷举
     # dataInfo.generate_data_in_border_exhaustion()
     # 2.2批量生成
-    dataInfo.generate_data_in_border_batch(1000)
+    # dataInfo.generate_data_in_border_batch(1000)
 
     # 3.合并生产和 上面随机数据字段
     random_test_data_file_path = random_test_data_directory_path + '/card-orders' + '.csv'
